@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""File: 3-square.py
+Author: Miguel
+"""
+
+
 class Square:
     """Square class with private attribute and optional instation.
     With a public instance method that\

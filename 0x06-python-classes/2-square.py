@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""File: 2-square.py
+Author: Miguel
+"""
+
+
 class Square:
     """Square class with privat eattribute and optional instation"""
     def __init__(self, size=0):
