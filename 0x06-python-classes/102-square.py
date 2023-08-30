@@ -3,6 +3,7 @@
 Author: Miguel
 """
 
+
 class Square:
     """
     Defines a square.
@@ -67,7 +68,8 @@ class Square:
 
     def __ge__(self, other):
         """
-        Implement the greater-than-or-equal comparator (>=) based on square areas.
+        Implement the greater-than-or-equal comparator (>=)\
+                based on square areas.
 
         Args:
             other (Square): The other Square instance to compare.
