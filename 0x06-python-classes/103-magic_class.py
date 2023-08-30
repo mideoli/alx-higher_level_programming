@@ -6,6 +6,7 @@ Author: Miguel
 
 import math
 
+
 class MagicClass:
     """
     Represents a class that performs calculations based on a given radius.
@@ -40,7 +41,8 @@ class MagicClass:
 
     def circumference(self):
         """
-        Calculate and return the circumference of a circle with the stored radius.
+        Calculate and return the circumference of a circle\
+                with the stored radius.
 
         Returns:
             float: The calculated circumference.
