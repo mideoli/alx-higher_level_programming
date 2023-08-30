@@ -2,6 +2,8 @@
 """File: 1-square.py
 Author: Miguel
 """
+
+
 class Square:
     """Square class with private attribute"""
     def __init__(self, size):
