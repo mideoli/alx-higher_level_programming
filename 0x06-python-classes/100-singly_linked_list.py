@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""File: 100-singly_linked_list.py
+Author: Miguel
+"""
+
+
 class Node:
     """Represents a node of a singly linked list.
     Attributes:
